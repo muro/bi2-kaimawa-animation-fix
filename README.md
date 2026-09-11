@@ -2,6 +2,8 @@
 
 The original ASCR062 animation was too large, so the game immediately closed the in-game animation and never displayed it. This updated version recompresses the animation and fixes the character animation so it matches the camera movement.
 
+![KAIMAWA ASCR062 animation frame](https://raw.githubusercontent.com/muro/bi2-kaimawa-animation-fix/main/ascr062.png)
+
 ## Installation
 
 1. Close Battle Isle 2.
